@@ -6,8 +6,13 @@
 #onlyoffice/documentserver:8.2.0.1
 #xbeeant/oo-unlimit:8.1.3.2
 #thomisus/onlyoffice-documentserver-unlimited:8.1.3
-strangevy/cloudflare-ddns-go:latest
-cloudflare/cloudflared:latest
-jeessy/ddns-go:v4.4.2
+#strangevy/cloudflare-ddns-go:latest
+#cloudflare/cloudflared:latest
+#jeessy/ddns-go:v4.4.2
+
+mariadb:10.6
+kodcloud/kodbox
+redis:alpine
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
