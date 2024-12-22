@@ -14,8 +14,8 @@
 #kodcloud/kodbox
 #redis:alpine
 
-bytemark/webdav:2.4
-
+#bytemark/webdav:2.4
+rucio/webdav:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
