@@ -16,6 +16,8 @@
 
 #bytemark/webdav:2.4
 #rucio/webdav:latest
-hacdias/webdav:v5.7
+#hacdias/webdav:v5.7
+ugeek/webdav:i386
+
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
