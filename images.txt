@@ -15,7 +15,7 @@
 #redis:alpine
 
 #bytemark/webdav:2.4
-rucio/webdav:latest
-
+#rucio/webdav:latest
+hacdias/webdav:v5.7
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
