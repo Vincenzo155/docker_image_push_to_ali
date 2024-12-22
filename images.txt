@@ -10,9 +10,12 @@
 #cloudflare/cloudflared:latest
 #jeessy/ddns-go:v4.4.2
 
-mariadb:10.6
-kodcloud/kodbox
-redis:alpine
+#mariadb:10.6
+#kodcloud/kodbox
+#redis:alpine
+
+bytemark/webdav:2.4
+
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
