@@ -20,9 +20,9 @@
 #onlyoffice/documentserver:8.2.1.1
 #onlyoffice/documentserver:8.2.2.1
 
-amtoaer/bili-sync-rs:v2.1.2
+#amtoaer/bili-sync-rs:v2.1.2
 
-
+jxxghp/moviepilot-v2:2.2.6
 
 #bytemark/webdav:2.4
 #rucio/webdav:latest
