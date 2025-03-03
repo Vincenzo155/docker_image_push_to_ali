@@ -22,9 +22,9 @@
 #thomisus/onlyoffice-documentserver-unlimited:8.1.3
 #amtoaer/bili-sync-rs:v2.1.2
 #mooziisp/oods-unlimited-ee-ucs:8.2.2.22
-mooziisp/oods-unlimited:8.2.2.22
+#mooziisp/oods-unlimited:8.2.2.22
 #dpaktamang/unlimited-onlyoffice:8.3.0
-
+thomisus/onlyoffice-documentserver-unlimited:8.1.3
 #jxxghp/moviepilot-v2:2.2.6
 #xbeeant/oo-unlimit:8.2.0.1
 #bytemark/webdav:2.4
