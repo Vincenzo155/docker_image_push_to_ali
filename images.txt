@@ -23,7 +23,7 @@
 #amtoaer/bili-sync-rs:v2.1.2
 #mooziisp/oods-unlimited-ee-ucs:8.2.2.22
 mooziisp/oods-unlimited:8.2.2.22
-dpaktamang/unlimited-onlyoffice:8.3.0
+#dpaktamang/unlimited-onlyoffice:8.3.0
 
 #jxxghp/moviepilot-v2:2.2.6
 #xbeeant/oo-unlimit:8.2.0.1
