@@ -31,9 +31,8 @@
 #rucio/webdav:latest
 #hacdias/webdav:v5.7
 #ugeek/webdav:i386
-wizzlocalhost/onlyoffice-docs-unlimited:9.4.0.36
 #dperson/samba:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-xbeeant/oo-chinese-unlimit:8.3.3
-
+#xbeeant/oo-chinese-unlimit:8.3.3
+#wizzlocalhost/onlyoffice-docs-unlimited:9.4.0.36
